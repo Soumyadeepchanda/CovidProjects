@@ -18,5 +18,5 @@ In this project, I have performed the following tasks:
 ![Screenshot 2023-07-02 122333](https://github.com/Soumyadeepchanda/Data_Analyst-Project-on-Covid/assets/93461379/b137dff9-3439-4c26-bac2-86fab302b074)
 
 ### Contents-
-SQL_Queries_&_OriginalTables/: This directory holds all the SQL queries used for extracting and manipulating COVID data from the database and also contains the database tables used for storing the COVID data.
-Power_Bi/: Here, you can find the final dashboards created for COVID deaths and vaccinations. These interactive dashboards visualize the data in an intuitive and informative way.
+1.SQL_Queries_&_OriginalTables/: This directory holds all the SQL queries used for extracting and manipulating COVID data from the database and also contains the database tables used for storing the COVID data.<br>
+2.Power_Bi/: Here, you can find the final dashboards created for COVID deaths and vaccinations. These interactive dashboards visualize the data in an intuitive and informative way.
