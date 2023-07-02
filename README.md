@@ -11,8 +11,12 @@ In this project, I have performed the following tasks:
 5.Tables: Designed and implemented database tables to store the COVID data efficiently.<br>
 6.Dashboard Creation: Built interactive dashboards using popular visualization tools to present the analyzed data in a visually appealing and user-friendly manner.<br>
 ## Dashboards Outcome:
-### Contents-
-Queries/: This directory holds all the SQL queries used for extracting and manipulating COVID data from the database.
-Tables/: This directory contains the database tables used for storing the COVID data.
-PowerBi/: Here, you can find the final dashboards created for COVID deaths and vaccinations. These interactive dashboards visualize the data in an intuitive and informative way.
+### 1.Covid Deaths Dashboard:
+![Screenshot 2023-07-02 122257](https://github.com/Soumyadeepchanda/Data_Analyst-Project-on-Covid/assets/93461379/529e06b8-c1c7-43a6-9e2e-bb6101fb62cf)
 
+### 2.Covid Vaccinations Dashboard:
+![Screenshot 2023-07-02 122333](https://github.com/Soumyadeepchanda/Data_Analyst-Project-on-Covid/assets/93461379/b137dff9-3439-4c26-bac2-86fab302b074)
+
+### Contents-
+SQL_Queries_&_OriginalTables/: This directory holds all the SQL queries used for extracting and manipulating COVID data from the database and also contains the database tables used for storing the COVID data.
+Power_Bi/: Here, you can find the final dashboards created for COVID deaths and vaccinations. These interactive dashboards visualize the data in an intuitive and informative way.
