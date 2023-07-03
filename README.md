@@ -1,8 +1,15 @@
 # COVID Data Analysis Project
 Welcome to the COVID Data Analysis Repository! This repository contains all the queries, tables, and final dashboards used for analyzing COVID-related data. It aims to provide insights into COVID deaths and vaccinations.
 
+## Software Used:
+### The following software was used during this project:
+
+1.Microsoft Excel<br>
+2.Microsoft SQL<br>
+3.Microsoft Power BI<br>
+
 ## Work Done
-In this project, I have performed the following tasks:
+### In this project, I have performed the following tasks:
 
 1.Data Collection: Gathered COVID data from reliable sources such as government databases, official health organizations, and public repositories.<br>
 2.Data Preparation: Cleaned and preprocessed the collected data to ensure accuracy and consistency.<br>
